@@ -2,14 +2,14 @@
 //
 // Created by Yiyun Qin
 // Created in April 2022
-// This is a math program, calculating the number guess game
+// This is a math program, showing whether you are acceptable for the date
 
 #include <iostream>
 #include <random>
 #include <string>
 
 int main() {
-    // This function comparing the guessed number and answer
+    // This function compares your age and the command
     std::string age;
     int ageInteger;
 
